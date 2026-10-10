@@ -1,0 +1,24 @@
+# Abdullah Seyda Aksakal — Fractional CTO & Principal AI Architect
+
+> 16 years building and leading engineering organizations for enterprise and high-growth clients, including Uber, Walmart, NTT Data, Domino's Pizza, DoorDash, Grubhub and Instacart. Specializes in distributed systems, agentic AI and LLM platforms, cloud-native infrastructure, and DevSecOps.
+
+Location: Istanbul, Türkiye. Engagements: fractional, project-based, full-time.
+Contact: via GitHub (https://github.com/aseydaaksakal).
+
+## Profile (English, German, French, Portuguese, Spanish)
+
+- [English](https://aseydaaksakal.github.io/fractional-cto/en/)
+- [Deutsch](https://aseydaaksakal.github.io/fractional-cto/de/)
+- [Français](https://aseydaaksakal.github.io/fractional-cto/fr/)
+- [Português](https://aseydaaksakal.github.io/fractional-cto/pt/)
+- [Español](https://aseydaaksakal.github.io/fractional-cto/es/)
+
+## Profile (Turkish / English)
+
+- [Türkçe](https://aseydaaksakal.github.io/fractional-cto/tr-en-profil/tr/)
+- [English](https://aseydaaksakal.github.io/fractional-cto/tr-en-profil/en/)
+
+## Open-source projects
+
+- [mcp-toolkit](https://github.com/aseydaaksakal/mcp-toolkit): Open-source Model Context Protocol server library (Python/Go) for exposing internal systems to LLM agents.
+- [rag-eval](https://github.com/aseydaaksakal/rag-eval): Evaluation harness for production RAG systems (Ragas-compatible): retrieval-quality regression tests and hallucination-rate tracking.
